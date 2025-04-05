@@ -3,6 +3,8 @@
 
 This documentation provides details on how to use the API endpoints.
 
+By [1SECMAIL](https://1sec-mail.com/)
+
 ---
 
 ## Get Domains
