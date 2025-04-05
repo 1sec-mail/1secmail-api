@@ -5,6 +5,9 @@ This documentation provides details on how to use the API endpoints.
 
 By [1SECMAIL](https://1sec-mail.com/)
 
+To Generate Your API Key Contact US 
+
+
 ---
 
 ## Get Domains
